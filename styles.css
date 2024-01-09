@@ -1,0 +1,33 @@
+* {
+  color: white;
+  text-align: center;
+}
+body {
+  margin-top: 25%;
+  margin-bottom: auto;
+  background-color: #357960;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+h2 {
+  font-style: italic;
+}
+button {
+  background-color: lightgray;
+  border: none;
+  color: black;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  font-weight: bold;
+  display: inline-block;
+  font-size: 1em;
+  border-radius: 8px;
+}
+ul{
+  list-style: none;
+}
+li{
+  font-style: italic; 
+  margin-bottom: .5em;
+}
